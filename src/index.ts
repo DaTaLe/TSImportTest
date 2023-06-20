@@ -1,4 +1,4 @@
-import User from "userModule"
+import User from "@root/userModule"
 
 console.log('Typescript2' as String);
 
