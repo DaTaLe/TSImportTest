@@ -1,0 +1,15 @@
+{
+  "name": "BaseUrlTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && tsc-alias"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsc-alias": "^1.8.6"
+  }
+}
